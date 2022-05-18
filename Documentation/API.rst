@@ -28,10 +28,10 @@ Constraints
 .. automodule:: Constraints
    :members:
 
-Economical analisis
+Economical Analysis
 -------------------
 
-.. automodule:: Economical_Analisis
+.. automodule:: Economical_Analysis
    :members:
 
 Results

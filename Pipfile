@@ -1,0 +1,32 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+pytest-cov = "*"
+pytest-mock = "*"
+bumpversion = "*"
+
+[packages]
+ipykernel = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+psycopg2-binary = "*"
+ipython = "*"
+nbformat = "*"
+pyomo = "*"
+dill = "*"
+sqlalchemy = "*"
+typer = "*"
+sphinx_rtd_theme = "*"
+xlwt = "*"
+xlrd = "*"
+
+[requires]
+python_version = "3.10"
+
+[pipenv]
+allow_prereleases = true

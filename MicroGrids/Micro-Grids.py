@@ -10,7 +10,8 @@ from Economical_Analysis import Levelized_Cost_Of_Energy
 
 
 # Type of problem formulation:
-formulation = 'Dispatch'
+# formulation = 'Dispatch'
+formulation = 'LP'
 
 model = AbstractModel() # define type of optimization problem
 
